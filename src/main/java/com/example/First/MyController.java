@@ -18,6 +18,7 @@ public class MyController {
 		User u=new User();
 		u.setName("shashank singhal");
 		u.setPassword("dssd");
+		
 		return u;
 	}
 }
