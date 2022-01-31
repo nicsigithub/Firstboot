@@ -17,7 +17,7 @@ public class MyController {
 	public User createValue() {
 		User u=new User();
 		u.setName("shashank");
-		u.setPassword("dssd");
+		u.setPassword("12345678");
 		return u;
 	}
 }
