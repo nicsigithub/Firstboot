@@ -16,8 +16,8 @@ public class MyController {
    @PostMapping("/hello1")
 	public User createValue() {
 		User u=new User();
-		u.setName("shashank");
+        u.setName("shashank singhal");
 		u.setPassword("12345678");
-		return u;
+        return u;
 	}
 }
