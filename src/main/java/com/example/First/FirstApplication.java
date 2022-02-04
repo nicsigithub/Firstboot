@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
 public class FirstApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstApplication.class, args);
+	SpringApplication.run(FirstApplication.class, args);
 	}
 
 }
